@@ -2,7 +2,7 @@ import pandas as pd
 
 def word_count(df):
     counts = dict()
-    for row in df: 
+    for row in df:
         for word in row:
             if word in counts:
                 counts[word] += 1
