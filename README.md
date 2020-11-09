@@ -29,7 +29,11 @@ To complete the dataset, I gathered information about each track in each album o
 
 By representing the information gathered from each track of each album versus the position in the list, **I did not find any trend. It seems like there is no "formula" to predict that an album is going to have better reviews based on danceability, energy, loudness, etc.**
 
+![Correlations](images/heat.png)
+
 With respect to the spanish Wikipedia reads, I obtained the same as before: **being a critically acclaimed album does not translate in more interest to read more about it.**
+
+![Wiki](images/wiki.png)
 
 ## Final thoughts
 
