@@ -1,5 +1,7 @@
 import pandas as pd
 
+#Function to return the word frequency of a column 
+#whose elements are lists of arrays
 def word_count(df):
     counts = dict()
     for row in df:
