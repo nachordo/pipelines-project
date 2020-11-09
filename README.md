@@ -15,3 +15,4 @@ I obtained a CSV with the top 500 albums in the Kaggle website, through the foll
 
 https://www.kaggle.com/notgibs/500-greatest-albums-of-all-time-rolling-stone?select=albumlist.csv
 
+I conducted some simple cleaning of this dataset to remove some bad characters, to divide different genre and subgenre into lists and remove all albums that aren't present in the Spotify catalogue.
